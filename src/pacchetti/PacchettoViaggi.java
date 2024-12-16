@@ -24,7 +24,7 @@ public class PacchettoViaggi {
     public void setDestinazione(String destinazione) {
         this.destinazione = destinazione;
     }
-    public void setDurata(int durata) {
+    public void setDurata(int durata565) {
         this.durata = durata;
     }
     public void setCosto(double costo) {
